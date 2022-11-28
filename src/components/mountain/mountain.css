@@ -1,0 +1,63 @@
+.div-container {
+  background-color: #414f6b;
+}
+
+.mountain1 {
+  font-size: 20px;
+  text-decoration: underline;
+  color: #414f6b;
+  font-weight: 700;
+  font-family: 'Oswald';
+  width: 140px;
+  background-color: #b0b4be;
+  text-align: center;
+  margin-right: 2rem;
+}
+
+.mountain2 {
+  font-size: 20px;
+  color: #b0b4be;
+  font-weight: 700;
+  font-family: 'Oswald';
+}
+
+.background3 {
+  width: 100%;
+  height: 50rem;
+  background-image: url('/src/images/mountain.jpg');
+  background-size: 119%;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+.info-container {
+  background-color: white;
+  margin-top: 12rem;
+  width: 300px;
+  height: auto;
+  opacity: 0.8;
+}
+
+.schedule-container {
+  margin: 0 auto;
+}
+
+.schedule {
+  margin: 0 auto;
+  font-size: 32px;
+  color: #414f6b;
+  font-weight: 700;
+  font-family: 'Oswald';
+  margin-left: 20px;
+}
+
+.schedule-font {
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+  font-weight: 300;
+  font-family: 'Lato';
+  justify-content: space-around;
+}

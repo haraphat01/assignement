@@ -1,0 +1,27 @@
+.logo {
+  height: 50px;
+}
+
+.history {
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #fefeff;
+  font-weight: 900;
+  font-style: italic;
+  font-family: 'Lato';
+
+  margin-right: 100px;
+}
+
+.team {
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #fefeff;
+  font-weight: 900;
+  font-style: italic;
+  font-family: 'Lato';
+
+  /* margin-top: 10px; */
+}

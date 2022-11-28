@@ -1,0 +1,52 @@
+.testing {
+  color: red;
+  text-align: center;
+}
+
+.background {
+  background-image: url('/src/images/background.jpg');
+  background-size: 119%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+  height: 45vw;
+}
+
+.text-wrapper {
+  text-align: center;
+  margin-top: 12rem;
+}
+
+.los {
+  font-size: 5.8vw;
+  letter-spacing: 1px;
+  line-height: 124px;
+  text-transform: uppercase;
+  color: #4d4d4d;
+  font-family: 'Bebas';
+}
+
+.mountains {
+  font-size: 5.8vw;
+  letter-spacing: 1px;
+  line-height: 124px;
+  text-transform: uppercase;
+  color: #414f6b;
+  font-family: 'Bebas';
+}
+
+.head{}
+
+@media only screen and (max-width: 767px) {
+  .background {
+    width: 100%;
+
+    background-image: url('/src/images/background.jpg');
+    background-size: 119%;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+}
